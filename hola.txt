@@ -1,0 +1,15 @@
+L           M           X           J               V
+cliente     servidor    diseño      diseño
+cliente     servidor    diseño      diseño
+hlc         cliente     servidor    despliegue
+hlc         cliente     servidor    despliegue
+eie         eie         servidor    eie
+
+
+cliente     maria dolores
+servidor    jose maria perez
+hlc         maria dolores
+eie         antonio salas
+diseño      manuel fernandez
+despliegue  jose maria perez
+
