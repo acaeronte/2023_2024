@@ -16,3 +16,7 @@ despliegue  jose maria perez
 jmperez@iestrassierra.com
 
 https://forms.gle/v8ondzDifuYLiprv7
+
+
+https://edea.juntadeandalucia.es/cas/login?service=https%3A%2F%2Feducacionadistancia.juntadeandalucia.es%2Fcentros%2Fcordoba%2Flogin%2Findex.php%3FauthCAS%3DCAS
+
