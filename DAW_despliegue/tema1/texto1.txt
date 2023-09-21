@@ -8,6 +8,11 @@ https://raul-profesor.github.io/DEAW/debian/
 Para conectar a internet, pasar la mac del portatil 
 al tutor JoseMaria, para acceder a la red: andaredCorporativo
 
+hay que instalar y habilitar en windows wsl(buscar en la red, como)
+hay que intentar instalar wsl version 2, que viene para windows 11, en el 10
+, hay que forzar para actualizar a wsl 2. 
+
+
 powershell modo admin y poner
 ver distro a instalar
 wsl -l -o
@@ -16,6 +21,8 @@ instalar ubuntu
 wsl --install Ubuntu-22.04
 
 
+si seguimos la instalacion de debian, y en la maquina virtual nueva creada, marcamos la opcion
+instalacion desatendida, no nos pregunta nada, y sigue adelante sin apenas preguntar nada.
 
 
 
