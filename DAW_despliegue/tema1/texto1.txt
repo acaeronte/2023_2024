@@ -1,0 +1,11 @@
+WPS es una maquina virtual debian a la que nos 
+conectamos medienate SSH por consola
+Nos basamos en: raul-profesor.github.io/DEAW/debian_teoria/
+
+Para conectar a internet, pasar la mac del portatil 
+al tutor JoseMaria, para acceder a la red: andaredCorporativo
+
+
+
+
+
