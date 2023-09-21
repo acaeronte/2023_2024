@@ -1,9 +1,22 @@
 WPS es una maquina virtual debian a la que nos 
 conectamos medienate SSH por consola
-Nos basamos en: raul-profesor.github.io/DEAW/debian_teoria/
+Nos basamos en: 
+raul-profesor.github.io/DEAW/debian_teoria/
+https://raul-profesor.github.io/DEAW/debian/
+
 
 Para conectar a internet, pasar la mac del portatil 
 al tutor JoseMaria, para acceder a la red: andaredCorporativo
+
+powershell modo admin y poner
+ver distro a instalar
+wsl -l -o
+
+instalar ubuntu
+wsl --install Ubuntu-22.04
+
+
+
 
 
 
