@@ -24,7 +24,11 @@ wsl --install Ubuntu-22.04
 si seguimos la instalacion de debian, y en la maquina virtual nueva creada, marcamos la opcion
 instalacion desatendida, no nos pregunta nada, y sigue adelante sin apenas preguntar nada.
 
+INSTALAR WSL en windows
+https://learn.microsoft.com/es-es/windows/wsl/install
 
+wsl --install       se instala por defecto e instala ubuntu también
+wsl -l -o           lista los sistemas que se pueden usar.
 
 
 
