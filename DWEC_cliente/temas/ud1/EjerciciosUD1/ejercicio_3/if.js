@@ -20,6 +20,3 @@ if (isNaN(edad)) {
   }
 }
 
-
-
-

@@ -29,4 +29,5 @@ for (let valor3 = 1; valor3 <= 100; valor3++) {
         console.log('El número ',valor3,' no es múltiplo de 3 ni de 7');
     }
   }
+
   

@@ -30,3 +30,4 @@ while (true) {
         alert("Error: Opción no válida. Por favor, elija una opción del 1 al 4.");
     }
 }
+

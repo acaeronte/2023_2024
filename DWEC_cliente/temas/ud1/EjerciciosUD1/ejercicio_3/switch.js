@@ -1,3 +1,4 @@
+
 //Usando switch
 let edad = prompt("Introduce tu edad:");
 
@@ -20,3 +21,4 @@ if (!typeof Number(edad) === 'number') {
       console.log("Eres una persona adulta mayor.");
   }
 }
+
